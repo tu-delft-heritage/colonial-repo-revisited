@@ -28,3 +28,11 @@ Overview of the repository's contents:
 | Journals | UBL | Metadata and assets | 11 | No | No | |
 | Journals | TUD | Metadata and assets | - | No | No | |
 | Archival documents | UGM | Metadata and assets | - | No | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
+
+Todo:
+
+- [ ] Export TUD and UGM objects
+- [ ] Share master copies of publications with UBL
+- [ ] Check missing maps (8) and images (2) of UBL
+- [ ] Check IIIF availability of UBL objects
+- [ ] Match UBL journals (11)
