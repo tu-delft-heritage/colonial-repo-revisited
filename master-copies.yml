@@ -1,0 +1,32 @@
+# Overview of hard drives and flash drives containing master copies
+# Kept by TU Delft Library
+---
+- label: "05337-TU-Delft"
+  kind: "External HD"
+  contents: "TUD items"
+  status: "Copied completely"
+
+- label: "05521-TU Delft Library"
+  kind: "External HD"
+  contents: "UBL items"
+  status: "Not copied"
+
+- label: "06257-TU-Delft"
+  kind: "USB flash drive"
+  contents: "TUD items (extra, possibly not in repo)"
+  status: "Tried to copy, some corrupted files"
+
+- label: "06427-TU-Delft-nazending"
+  kind: "USB flash drive"
+  contents: "UBL items (extra, possibly not in repo)"
+  status: "Tried to copy, some corrupted files"
+
+- label: "6070 6084"
+  kind: "USB flash drive"
+  contents: "TUD items (extra, possibly not in repo)"
+  status: "Tried to copy, some corrupted files"
+
+- label: "Koloniaal Tijdschrift"
+  kind: "External HD"
+  contents: "TUD items (improved scans of Koloniaal Tijdschrift)"
+  status: "Copied completely"
