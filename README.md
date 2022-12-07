@@ -16,18 +16,18 @@ Overview of the repository's contents:
 
 | Subcollection | Institution | Kind | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
-| Persons | - | Metadata only | 169 | Yes | - | |
-| Buildings | - | Metadata only | 481 | Yes | - | |
-| Organisations | - | Metadata only | 82 | Yes | - | |
-| Publications | UBL | Metadata and assets | 186 | Yes | No | |
-| Publications | TUD | Metadata and assets | - | No | - | |
-| Images | UBL | Metadata and assets | 14716 | Yes | Yes (14714) | |
-| Images | TUD | Metadata and assets | - | No | - | |
-| Maps | UBL | Metadata and assets | 178 | Yes | Yes (170) | |
-| Maps | TUD | Metadata and assets | - | No | - | |
-| Journals | UBL | Metadata and assets | 11 | No | No | |
-| Journals | TUD | Metadata and assets | - | No | No | |
-| Archival documents | UGM | Metadata and assets | - | No | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
+| Persons | - | Metadata only | 169 | ✅ | - | |
+| Buildings | - | Metadata only | 481 | ✅ | - | |
+| Organisations | - | Metadata only | 82 | ✅ | - | |
+| Publications | UBL | Metadata and assets | 186 | ✅ | ❌ | Could not be matched; UBL would like to obtain master copies (TIF) |
+| Publications | TUD | Metadata and assets | - | ❌ | - | |
+| Images | UBL | Metadata and assets | 14716 | ✅ | ✅ (14714) | |
+| Images | TUD | Metadata and assets | - | ❌ | - | Maybe no TUD images |
+| Maps | UBL | Metadata and assets | 178 | ✅ | ✅ (170) | |
+| Maps | TUD | Metadata and assets | - | ❌ | - | |
+| Journals | UBL | Metadata and assets | 11 | ❌ | - | |
+| Journals | TUD | Metadata and assets | - | ❌ | - | |
+| Archival documents | UGM | Metadata and assets | - | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
 
 Todo:
 
