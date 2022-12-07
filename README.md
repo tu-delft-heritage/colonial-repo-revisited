@@ -6,13 +6,13 @@ Links:
 - [Building a repository on European colonial architecture and town planning](http://resolver.tudelft.nl/uuid:6434057c-8888-458b-a3ec-9cecb6e7c281)
 - [A repository for sources about European colonial architecture and town planning](http://resolver.tudelft.nl/uuid:8c6f01a4-104c-4761-b4b1-be6e8e4fd5d9)
 
+## Overview of the repository's contents:
+
 UBL = Universitaire Bibliotheken Leiden
 
 TUD = Delft University of Technology Library
 
 UGM = Universitas Gadjah Mada, Yogyakarta
-
-Overview of the repository's contents:
 
 | Subcollection | Institution | Kind | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Overview of the repository's contents:
 | Journals | TUD | Metadata and assets | - | ❌ | - | |
 | Archival documents | UGM | Metadata and assets | - | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
 
-Todo:
+## Todo:
 
 - [ ] Export TUD and UGM objects
 - [ ] Share master copies of publications with UBL
