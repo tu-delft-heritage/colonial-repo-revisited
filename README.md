@@ -18,16 +18,17 @@ UGM = Universitas Gadjah Mada, Yogyakarta
 | --- | --- | --- | --- | --- | --- | --- |
 | Persons | - | Metadata only | 169 | ✅ | - | |
 | Buildings | - | Metadata only | 481 | ✅ | - | |
-| Organisations | - | Metadata only | 82 | ✅ | - | |
+| Organisations | - | Metadata only | 80 | ✅ | - | 2 extra records of Dutch and English architects |
 | Publications | UBL | Metadata and assets | 186 | ✅ | ❌ | Could not be matched; UBL would like to obtain master copies (TIF) |
-| Publications | TUD | Metadata and assets | - | ❌ | - | |
+| Publications | TUD | Metadata and assets | ❓ | ❌ | - | |
 | Images | UBL | Metadata and assets | 14716 | ✅ | ✅ (14714) | |
-| Images | TUD | Metadata and assets | - | ❌ | - | Maybe no TUD images |
+| Images | TUD | Metadata and assets | ❓ | ❌ | - | Maybe no TUD images |
 | Maps | UBL | Metadata and assets | 178 | ✅ | ✅ (170) | |
-| Maps | TUD | Metadata and assets | - | ❌ | - | |
-| Journals | UBL | Metadata and assets | 11 | ❌ | - | |
-| Journals | TUD | Metadata and assets | - | ❌ | - | |
-| Archival documents | UGM | Metadata and assets | - | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
+| Journals | UBL | Metadata only | 11 | ❌ | - | |
+| Journal issues | UBL | Metadata and assets | ❓ | - | - | |
+| Journals | TUD | Metadata only | 11❓ | ❌ | - | |
+| Journal issues | TUD | Metadata and assets | ❓ | - | - | |
+| Archival documents | UGM | Metadata and assets | 2283 | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
 
 ## Todo:
 
