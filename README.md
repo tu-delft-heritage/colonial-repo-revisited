@@ -32,7 +32,7 @@ HNI = The New Institute (formerly Netherlands Architecture Institute)
 | Journal issues | UBL | Metadata and assets | ❓ | - | - | |
 | Journals | [TUD](https://colonialarchitecture.eu/slv?sq=%22TU%20Delft%20Library%22&fac%5B0%5D=t%3AJournal&ft=0) | Metadata only | 10 | ❌ | - | |
 | Journal issues | TUD | Metadata and assets | ❓ | - | - | |
-[ Jounals | [HNI](https://colonialarchitecture.eu/slv?sq=NAI&fac%5B0%5D=t%3AJournal&ft=0) | Metadata only | 1 | ❌ | - | |
+| Jounals | [HNI](https://colonialarchitecture.eu/slv?sq=NAI&fac%5B0%5D=t%3AJournal&ft=0) | Metadata only | 1 | ❌ | - | |
 | Journal issues | HNI | Metadata and assets | 5 | - | - | |
 | Archival documents | UGM | Metadata and assets | 2283 | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
 
