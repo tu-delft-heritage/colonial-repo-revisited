@@ -23,7 +23,7 @@ UGM = Universitas Gadjah Mada, Yogyakarta
 | Publications | TUD | Metadata and assets | ❓ | ❌ | - | |
 | Images | UBL | Metadata and assets | 14716 | ✅ | ✅ (14714) | |
 | Images | TUD | Metadata and assets | ❓ | ❌ | - | Maybe no TUD images |
-| Maps | UBL | Metadata and assets | 178 | ✅ | ✅ (170) | |
+| Maps | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Map&rows=5) | Metadata and assets | 178 | ✅ | ✅ (170) | |
 | Journals | UBL | Metadata only | 11 | ❌ | - | |
 | Journal issues | UBL | Metadata and assets | ❓ | - | - | |
 | Journals | TUD | Metadata only | 11❓ | ❌ | - | |
