@@ -23,6 +23,11 @@ Abbreviations:
 | [Buildings](https://colonialarchitecture.eu/slv?sq=&fac%5B0%5D=t%3ABuilding&ft=0) | 481 | ✅ | - | |
 | [Organisations](https://colonialarchitecture.eu/slv?sq=&fac%5B0%5D=t%3AOrganization&ft=0) | 80 | ✅ | - | [2 group records of Dutch and English architects](https://colonialarchitecture.eu/slv?sq=&fac%5B0%5D=t%3AGroup) |
 
+Other metadata-only types:
+- Location: 247 (Geonames)
+- Concept: 323 (AAT)
+- TownPlan: 14 (No results)
+
 ### Books
 
 Total count: 285
@@ -67,11 +72,6 @@ Total counts:
 | Contributor | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- |
 | UGM | 2283 | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
-
-### Other types
-- Location: 247
-- Concept: 323
-- TownPlan: 14
 
 ## Todo:
 
