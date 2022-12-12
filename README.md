@@ -39,7 +39,7 @@ HNI = The New Institute (formerly Netherlands Architecture Institute)
 
 Total type counts:
 - Image (18834)
-- JournalIssue(2357)
+- JournalIssue (2357)
 - Report (2283)
 - Building (481)
 - Concept (323)
