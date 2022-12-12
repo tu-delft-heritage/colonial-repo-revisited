@@ -32,6 +32,21 @@ TRO = Tropenmuseum (Royal Tropical Institute)
 | Journal issues | TUD | Metadata and assets | ❓ | - | - | |
 | Archival documents | UGM | Metadata and assets | 2283 | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
 
+Total type counts:
+- Image (18834)
+- JournalIssue(2357)
+- Report (2283)
+- Building (481)
+- Concept (323)
+- Book (285)
+- Location (247)
+- Map (178)
+- Person (169)
+- Organization (80)
+- Journal (22)
+- TownPlan (14)
+- Group (2)
+
 ## Todo:
 
 - [ ] Export TUD and UGM objects
