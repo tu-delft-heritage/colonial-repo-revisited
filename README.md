@@ -16,6 +16,8 @@ UGM = Universitas Gadjah Mada, Yogyakarta
 
 TRO = Tropenmuseum (Royal Tropical Institute)
 
+HNI = The New Institute (formerly Netherlands Architecture Institute)
+
 | Subcollection | Institution | Kind | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Persons](https://colonialarchitecture.eu/slv?sq=&fac%5B0%5D=t%3APerson&ft=0) | - | Metadata only | 169 | ✅ | - | |
@@ -30,6 +32,8 @@ TRO = Tropenmuseum (Royal Tropical Institute)
 | Journal issues | UBL | Metadata and assets | ❓ | - | - | |
 | Journals | [TUD](https://colonialarchitecture.eu/slv?sq=%22TU%20Delft%20Library%22&fac%5B0%5D=t%3AJournal&ft=0) | Metadata only | 10 | ❌ | - | |
 | Journal issues | TUD | Metadata and assets | ❓ | - | - | |
+[ Jounals | [HNI](https://colonialarchitecture.eu/slv?sq=NAI&fac%5B0%5D=t%3AJournal&ft=0) | Metadata only | 1 | ❌ | - | |
+| Journal issues | HNI | Metadata and assets | 5 | - | - | |
 | Archival documents | UGM | Metadata and assets | 2283 | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
 
 Total type counts:
