@@ -36,6 +36,8 @@ Total count: 285
 | --- | --- | --- | --- | --- |
 | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3ABook&ft=0) | 186 | ✅ | ❌ | Could not be matched; UBL would like to obtain master copies (TIF) |
 | [TUD](https://colonialarchitecture.eu/slv?sq=%22TU%20Delft%20Library%22&fac%5B0%5D=t%3ABook&ft=0) | 83 | ❌ | - | |
+| [HNI](https://colonialarchitecture.eu/slv?sq=Het%20Nieuwe%20Instituut&fac%5B0%5D=t%3ABook&ft=0) | 10 | ❌ | - | |
+| Total | 279 | | | |
 
 ### Images
 
@@ -47,6 +49,7 @@ Total count: 18834
 | [TRO](https://colonialarchitecture.eu/slv?sq=%22Tropenmuseum%22&ft=0) | 4110 | ❌ | - | |
 | [HNI](https://colonialarchitecture.eu/slv?sq=%22NAI%22&fac%5B0%5D=t%3AImage&ft=0) | 5 | ❌ | - | |
 | [Paul Suijker](https://colonialarchitecture.eu/slv?sq=suijker&ft=0) | 2 | - | - | |
+| Total | 18833 | | | |
 
 ### Maps
 
@@ -55,6 +58,7 @@ Total count: 178
 | Contributor | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- |
 | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Map&rows=5) | 178 | ✅ | ✅ (170) | |
+| Total | 178 | | | |
 
 ### Journals
 
@@ -67,11 +71,13 @@ Total counts:
 | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3AJournal&ft=0) | 11 | ? | ❌ | - | |
 | [TUD](https://colonialarchitecture.eu/slv?sq=%22TU%20Delft%20Library%22&fac%5B0%5D=t%3AJournal&ft=0) | 10 | ? | ❌ | - | |
 | [HNI](https://colonialarchitecture.eu/slv?sq=NAI&fac%5B0%5D=t%3AJournal&ft=0) | 1 | 5 | ❌ | - | |
+| Total | 22 | ? | | | |
 
 ### Reports
 | Contributor | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- |
 | UGM | 2283 | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
+| Total | 2283 | | | |
 
 ## Todo:
 
