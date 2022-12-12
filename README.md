@@ -20,7 +20,7 @@ UGM = Universitas Gadjah Mada, Yogyakarta
 | Buildings | - | Metadata only | 481 | ✅ | - | |
 | Organisations | - | Metadata only | 80 | ✅ | - | [2 group records of Dutch and English architects](https://colonialarchitecture.eu/slv?sq=&fac%5B0%5D=t%3AGroup) |
 | Publications | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Document&rows=5) | Metadata and assets | 186 | ✅ | ❌ | 197 hits in search results. Could not be matched; UBL would like to obtain master copies (TIF) |
-| Publications | TUD | Metadata and assets | ❓ | ❌ | - | |
+| Publications | [TUD](https://colonialarchitecture.eu/slv?sq=%22TU%20Delft%20Library%22&ft=0&cat=Document&rows=5) | Metadata and assets | 93 | ❌ | - | |
 | Images | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Image&rows=5) | Metadata and assets | 14716 | ✅ | ✅ (14714) | 14715 hits in search results |
 | Images | TUD | Metadata and assets | ❓ | ❌ | - | Maybe no TUD images |
 | Maps | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Map&rows=5) | Metadata and assets | 178 | ✅ | ✅ (170) | |
