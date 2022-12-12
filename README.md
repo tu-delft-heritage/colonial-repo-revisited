@@ -28,6 +28,7 @@ HNI = The New Institute (formerly Netherlands Architecture Institute)
 | Images | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Image&rows=5) | Metadata and assets | 14716 | ✅ | ✅ (14714) | 14715 hits in search results |
 | Images | [TRO](https://colonialarchitecture.eu/slv?sq=%22Tropenmuseum%22&ft=0) | Metadata and assets | 4110 | ❌ | - | |
 | Images | [HNI](https://colonialarchitecture.eu/slv?sq=%22NAI%22&fac%5B0%5D=t%3AImage&ft=0) | Metadata and assets | 5 | ❌ | - | |
+| Images |[Paul Suijker](https://colonialarchitecture.eu/slv?sq=suijker&ft=0) | Metadata and assets | 2 | - | - | |
 | Maps | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Map&rows=5) | Metadata and assets | 178 | ✅ | ✅ (170) | |
 | Journals | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3AJournal&ft=0) | Metadata only | 11 | ❌ | - | |
 | Journal issues | UBL | Metadata and assets | ❓ | - | - | |
