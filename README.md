@@ -24,8 +24,8 @@ UGM = Universitas Gadjah Mada, Yogyakarta
 | Images | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Image&rows=5) | Metadata and assets | 14716 | ✅ | ✅ (14714) | 14715 hits in search results |
 | Images | TUD | Metadata and assets | ❓ | ❌ | - | Maybe no TUD images |
 | Maps | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Map&rows=5) | Metadata and assets | 178 | ✅ | ✅ (170) | |
-| Journals | UBL | Metadata only | 11 | ❌ | - | |
-| Journal issues | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3AJournal&ft=0) | Metadata and assets | ❓ | - | - | |
+| Journals | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3AJournal&ft=0) | Metadata only | 11 | ❌ | - | |
+| Journal issues | UBL | Metadata and assets | ❓ | - | - | |
 | Journals | [TUD](https://colonialarchitecture.eu/slv?sq=%22TU%20Delft%20Library%22&fac%5B0%5D=t%3AJournal&ft=0) | Metadata only | 10 | ❌ | - | |
 | Journal issues | TUD | Metadata and assets | ❓ | - | - | |
 | Archival documents | UGM | Metadata and assets | 2283 | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
