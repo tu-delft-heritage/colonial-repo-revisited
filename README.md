@@ -14,6 +14,8 @@ TUD = Delft University of Technology Library
 
 UGM = Universitas Gadjah Mada, Yogyakarta
 
+TRO = Tropenmuseum (Royal Tropical Institute)
+
 | Subcollection | Institution | Kind | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
 | Persons | - | Metadata only | 169 | ✅ | - | |
@@ -22,7 +24,7 @@ UGM = Universitas Gadjah Mada, Yogyakarta
 | Books | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3ABook&ft=0) | Metadata and assets | 186 | ✅ | ❌ | Could not be matched; UBL would like to obtain master copies (TIF) |
 | Books | [TUD](https://colonialarchitecture.eu/slv?sq=%22TU%20Delft%20Library%22&fac%5B0%5D=t%3ABook&ft=0) | Metadata and assets | 83 | ❌ | - | |
 | Images | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Image&rows=5) | Metadata and assets | 14716 | ✅ | ✅ (14714) | 14715 hits in search results |
-| Images | TUD | Metadata and assets | ❓ | ❌ | - | Maybe no TUD images |
+| Images | [TRO](https://colonialarchitecture.eu/slv?sq=%22Tropenmuseum%22&ft=0) | Metadata and assets | 4110 | ❌ | - | |
 | Maps | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Map&rows=5) | Metadata and assets | 178 | ✅ | ✅ (170) | |
 | Journals | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3AJournal&ft=0) | Metadata only | 11 | ❌ | - | |
 | Journal issues | UBL | Metadata and assets | ❓ | - | - | |
