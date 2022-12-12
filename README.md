@@ -19,13 +19,13 @@ UGM = Universitas Gadjah Mada, Yogyakarta
 | Persons | - | Metadata only | 169 | ✅ | - | |
 | Buildings | - | Metadata only | 481 | ✅ | - | |
 | Organisations | - | Metadata only | 80 | ✅ | - | [2 group records of Dutch and English architects](https://colonialarchitecture.eu/slv?sq=&fac%5B0%5D=t%3AGroup) |
-| Books | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Document&rows=5) | Metadata and assets | 186 | ✅ | ❌ | 197 hits in search results. Could not be matched; UBL would like to obtain master copies (TIF) |
+| Books | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3ABook&ft=0) | Metadata and assets | 186 | ✅ | ❌ | Could not be matched; UBL would like to obtain master copies (TIF) |
 | Books | [TUD](https://colonialarchitecture.eu/slv?sq=%22TU%20Delft%20Library%22&fac%5B0%5D=t%3ABook&ft=0) | Metadata and assets | 83 | ❌ | - | |
 | Images | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Image&rows=5) | Metadata and assets | 14716 | ✅ | ✅ (14714) | 14715 hits in search results |
 | Images | TUD | Metadata and assets | ❓ | ❌ | - | Maybe no TUD images |
 | Maps | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Map&rows=5) | Metadata and assets | 178 | ✅ | ✅ (170) | |
 | Journals | UBL | Metadata only | 11 | ❌ | - | |
-| Journal issues | UBL | Metadata and assets | ❓ | - | - | |
+| Journal issues | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3AJournal&ft=0) | Metadata and assets | ❓ | - | - | |
 | Journals | [TUD](https://colonialarchitecture.eu/slv?sq=%22TU%20Delft%20Library%22&fac%5B0%5D=t%3AJournal&ft=0) | Metadata only | 10 | ❌ | - | |
 | Journal issues | TUD | Metadata and assets | ❓ | - | - | |
 | Archival documents | UGM | Metadata and assets | 2283 | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
