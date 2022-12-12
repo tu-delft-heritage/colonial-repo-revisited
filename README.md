@@ -18,9 +18,9 @@ TRO = Tropenmuseum (Royal Tropical Institute)
 
 | Subcollection | Institution | Kind | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- | --- | --- |
-| Persons | - | Metadata only | 169 | ✅ | - | |
-| Buildings | - | Metadata only | 481 | ✅ | - | |
-| Organisations | - | Metadata only | 80 | ✅ | - | [2 group records of Dutch and English architects](https://colonialarchitecture.eu/slv?sq=&fac%5B0%5D=t%3AGroup) |
+| [Persons](https://colonialarchitecture.eu/slv?sq=&fac%5B0%5D=t%3APerson&ft=0) | - | Metadata only | 169 | ✅ | - | |
+| [Buildings](https://colonialarchitecture.eu/slv?sq=&fac%5B0%5D=t%3ABuilding&ft=0) | - | Metadata only | 481 | ✅ | - | |
+| [Organisations](https://colonialarchitecture.eu/slv?sq=&fac%5B0%5D=t%3AOrganization&ft=0) | - | Metadata only | 80 | ✅ | - | [2 group records of Dutch and English architects](https://colonialarchitecture.eu/slv?sq=&fac%5B0%5D=t%3AGroup) |
 | Books | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3ABook&ft=0) | Metadata and assets | 186 | ✅ | ❌ | Could not be matched; UBL would like to obtain master copies (TIF) |
 | Books | [TUD](https://colonialarchitecture.eu/slv?sq=%22TU%20Delft%20Library%22&fac%5B0%5D=t%3ABook&ft=0) | Metadata and assets | 83 | ❌ | - | |
 | Images | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Image&rows=5) | Metadata and assets | 14716 | ✅ | ✅ (14714) | 14715 hits in search results |
