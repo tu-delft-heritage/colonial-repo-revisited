@@ -70,8 +70,4 @@ Other metadata-only types:
 
 ## Todo:
 
-- [ ] Export TUD and UGM objects
-- [ ] Share master copies of publications with UBL
-- [ ] Check missing maps (8) and images (2) of UBL
-- [ ] Check IIIF availability of UBL objects
-- [ ] Match UBL journals (11)
+See [issues](https://github.com/tu-delft-library/colonial-repo-revisited/issues)
