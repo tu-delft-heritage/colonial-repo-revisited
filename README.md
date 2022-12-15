@@ -1,8 +1,14 @@
 # Discussing the future of the Colonial Architecture & Town Planning Repository
 
-Links:
+Bullet points about the current state of the repo:
 
-- [Colonial Architecture & Town Planning Repository](https://colonialarchitecture.eu)
+- The software of the [Colonial Architecture & Town Planning Repository](https://colonialarchitecture.eu) is outdated. Since TU Delft Library is moving away from supporting the underlying technical infrastructure (Fedora, Drupal, Islandora) the future of the repo is brought up for discussion.
+- Apart from a research dataset originating from Universitas Gadjah Mada (Yogyakarta) the repository's contents have not been updated since its launch in 2014 and does not reflect the vast amount of digitised material that has become available in the meantime by the contributing institutions or elsewhere.
+- The repository contains copies of digitised collections that _should_ also be published on the digital collections portals of the contributing institutions. If this is indeed the case, modern standards such as [IIIF](https://iiif.io) could be used to fetch images and metadata directly form the institutions, eliminating the need for copies. This would be in line with the Linked Data approach favored by the [Dutch Digital Heritage Network](https://netwerk-digitaal-erfgoed.github.io/cm-implementation-guidelines/).
+- Some of the metadata-only records could potentially be adopted as part the project [Indisch Erfgoed Digitaal](https://www.metamorfoze.nl/financiering/programma-indisch-erfgoed-digitaal). 
+
+Background articles about the making of the repo:
+
 - [Building a repository on European colonial architecture and town planning](http://resolver.tudelft.nl/uuid:6434057c-8888-458b-a3ec-9cecb6e7c281)
 - [A repository for sources about European colonial architecture and town planning](http://resolver.tudelft.nl/uuid:8c6f01a4-104c-4761-b4b1-be6e8e4fd5d9)
 
@@ -68,6 +74,6 @@ Other metadata-only types:
 | UGM | 2283 | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
 | Total | 2283 | | | 2283 items in search results |
 
-## Todo:
+## Todo
 
 See [issues](https://github.com/tu-delft-library/colonial-repo-revisited/issues)
