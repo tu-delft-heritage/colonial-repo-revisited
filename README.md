@@ -28,7 +28,7 @@ Other metadata-only types:
 - Concept: 323 (AAT)
 - TownPlan: 14 (No results)
 
-### Books
+### Book
 
 | Contributor | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- |
@@ -37,24 +37,23 @@ Other metadata-only types:
 | [HNI](https://colonialarchitecture.eu/slv?sq=%22Het%20Nieuwe%20Instituut%22&fac%5B0%5D=t%3ABook&ft=0) | 10 | ❌ | - | |
 | Total | 279 | | | 285 items in search results |
 
-### Images
+### Image
 
 | Contributor | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- |
 | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Image&rows=5) | 14716 | [ubl_images.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/ubl/ubl_images.xlsx) | [ubl_images_handles.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/ubl/ubl_images_handles.xlsx) (14714) | 14715 hits in search results |
 | [TRO](https://colonialarchitecture.eu/slv?sq=%22Tropenmuseum%22&ft=0) | 4110 | ❌ | - | |
-| [HNI](https://colonialarchitecture.eu/slv?sq=%22NAI%22&fac%5B0%5D=t%3AImage&ft=0) | 5 | ❌ | - | |
-| [Paul Suijker](https://colonialarchitecture.eu/slv?sq=suijker&ft=0) | 2 | ❌ | - | |
-| Total | 18833 | | | 18834 items in search results |
+| [Paul Suijker](https://colonialarchitecture.eu/slv?sq=suijker&fac%5B0%5D=t%3AImage&ft=0) | 2 | ❌ | - | |
+| Total | 18828 | | | 18834 items in search results |
 
-### Maps
+### Map
 
 | Contributor | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- |
 | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Map&rows=5) | 178 | [ubl_maps.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/ubl/ubl_maps.xlsx) | [ubl_maps_handles.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/ubl/ubl_maps_handles.xlsx) (170) | |
 | Total | 178 | | | 178 items in search results |
 
-### Journals
+### Journal & JournalIssue
 
 | Contributor | Journal Count | Issue Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- | --- |
@@ -63,7 +62,7 @@ Other metadata-only types:
 | [HNI](https://colonialarchitecture.eu/slv?sq=NAI&fac%5B0%5D=t%3AJournal&ft=0) | 1 | 5 | ❌ | - | |
 | Total | 22 | ? | | | 2357 issues in search results |
 
-### Reports
+### Report
 | Contributor | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- |
 | UGM | 2283 | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
