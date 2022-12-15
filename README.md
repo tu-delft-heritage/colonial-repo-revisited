@@ -6,6 +6,15 @@ Bullet points about the current state of the repo:
 - Apart from a research dataset originating from Universitas Gadjah Mada (Yogyakarta) the repository's contents have not been updated since its launch in 2014 and does not reflect the vast amount of digitised material that has become available in the meantime by the contributing institutions or elsewhere.
 - The repository contains copies of digitised collections that _should_ also be published on the digital collections portals of the contributing institutions. If this is indeed the case, modern standards such as [IIIF](https://iiif.io) could be used to fetch images and metadata directly form the institutions, eliminating the need for copies. This would be in line with the Linked Data approach favored by the [Dutch Digital Heritage Network](https://netwerk-digitaal-erfgoed.github.io/cm-implementation-guidelines/).
 - Some of the metadata-only records could potentially be adopted as part the project [Indisch Erfgoed Digitaal](https://www.metamorfoze.nl/financiering/programma-indisch-erfgoed-digitaal). 
+- The [Faculty of Architecture and the Built Environment](https://www.tudelft.nl/bk/) initiated the repo and is still an important stakeholder.
+
+Aim of this repository:
+
+- Publishing CSV/Excel exports of the various types
+- Providing an overview of the various institutional owners (unfortunately this is not available as a search facet in the repo itself)
+- Communicating with stakeholders
+- Publishing matched records in digital collections elsewhere
+- Testing and demonstrating new approaches with e.g. IIIF
 
 Background articles about the making of the repo:
 
