@@ -83,6 +83,10 @@ Other metadata-only types:
 | UGM | 2283 | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
 | Total | 2283 | | | 2283 items in search results |
 
+## Data model
+
+![Data model of the repository](/img/data-model.png)
+
 ## Todo
 
 See [issues](https://github.com/tu-delft-library/colonial-repo-revisited/issues)
