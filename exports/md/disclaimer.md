@@ -1,0 +1,9 @@
+# Disclaimer
+
+The repository and website contain text documents, still images, moving images, maps and archives. The material is used in an Open Access framework. Within this structure, the TU Delft Library is responsible for the deposit of material. The repository and website have been developed with the explicit aim of providing the widest possible audience access to resources issued by TU Delft Library.
+
+This repository and website are designed for scientific, design, administrative and educational purposes and is funded as not-for-profit. No payment is made for material submitted for publication and reference on the website or in the repository. TU Delft accepts no responsibility for the improper use of the website and/or repository, or for rights or claims deriving from the use of the website and/or repository.
+
+TU Delft makes every reasonable effort to reach agreement on the use of the repository’s digital content with the holders of the intellectual property rights when needed. In some cases this may not be possible because one or more of the entitled parties or heirs cannot be traced or because the policy of the (former) publisher is unknown to the administrators of this repository and website.
+
+Persons or institutions who wish to exercise potential rights to objects published in the repository and/or on the website are requested to contact the Delft Repository Team, specifying the title of the object and the related material. In such cases, the TU Delft Repository team will either ask permission for publication once again, or amend or remove the material. Please contact: library@tudelft.nl.
