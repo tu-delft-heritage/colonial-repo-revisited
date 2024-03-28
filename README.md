@@ -47,41 +47,42 @@ Other metadata-only types:
 
 | Contributor | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- |
-| [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3ABook&ft=0) | 186 | [ubl_publications.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/xlsx/ubl/ubl_publications.xlsx) | ❌ | Could not be matched; UBL would like to obtain master copies (TIF) |
+| [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3ABook&ft=0) | 187 | [ubl_publications.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/xlsx/ubl/ubl_publications.xlsx) | ❌ | Could not be matched; UBL would like to obtain master copies (TIF) |
 | [TUD](https://colonialarchitecture.eu/slv?sq=%22TU%20Delft%20Library%22&fac%5B0%5D=t%3ABook&ft=0) | 83 | ❌ | - | |
 | [HNI](https://colonialarchitecture.eu/slv?sq=%22Het%20Nieuwe%20Instituut%22&fac%5B0%5D=t%3ABook&ft=0) | 10 | ❌ | - | |
-| Total | 279 | | | 285 items in search results |
+| Unclear | 6 | | - | |
+| Total | 286 | | | |
 
 ### Image
 
 | Contributor | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- |
-| [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Image&rows=5) | 14716 | [ubl_images.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/xlsx/ubl/ubl_images.xlsx) | [ubl_images_handles.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/xlsx/ubl/ubl_images_handles.xlsx) (14714) | 14715 hits in search results |
+| [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Image&rows=5) | 14715 | [ubl_images.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/xlsx/ubl/ubl_images.xlsx) | [ubl_images_handles.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/xlsx/ubl/ubl_images_handles.xlsx) (14714) | |
 | [TRO](https://colonialarchitecture.eu/slv?sq=%22Tropenmuseum%22&ft=0) | 4110 | ❌ | - | |
-| [Paul Suijker](https://colonialarchitecture.eu/slv?sq=suijker&fac%5B0%5D=t%3AImage&ft=0) | 2 | ❌ | - | |
-| Total | 18828 | | | 18834 items in search results |
+| Other | 8 | ❌ | - | |
+| Total | 18834 | | | |
 
 ### Map
 
 | Contributor | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- |
 | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Map&rows=5) | 178 | [ubl_maps.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/xlsx/ubl/ubl_maps.xlsx) | [ubl_maps_handles.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/xlsx/ubl/ubl_maps_handles.xlsx) (170) | |
-| Total | 178 | | | 178 items in search results |
+| Total | 178 | | | |
 
 ### Journal & JournalIssue
 
 | Contributor | Journal Count | Issue Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- | --- |
-| [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3AJournal&ft=0) | 11 | ? | ❌ | - | |
-| [TUD](https://colonialarchitecture.eu/slv?sq=%22TU%20Delft%20Library%22&fac%5B0%5D=t%3AJournal&ft=0) | 10 | ? | ❌ | - | |
+| [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&fac%5B0%5D=t%3AJournal&ft=0) | 11 | 1078 | ❌ | - | |
+| [TUD](https://colonialarchitecture.eu/slv?sq=%22TU%20Delft%20Library%22&fac%5B0%5D=t%3AJournal&ft=0) | 10 | 1274 | ❌ | - | |
 | [HNI](https://colonialarchitecture.eu/slv?sq=NAI&fac%5B0%5D=t%3AJournal&ft=0) | 1 | 5 | ❌ | - | |
-| Total | 22 | ? | | | 2357 issues in search results |
+| Total | 22 | 2357 | | | |
 
 ### Report
 | Contributor | Count | Exported | Matched | Comments |
 | --- | --- | --- | --- | --- |
 | UGM | 2283 | ❌ | - | Originating from the research project [On Bamboo, Bricks, Tiles and Thatches](https://marinusplantemafoundation.nl/on-bamboo-bricks-tiles-and-thatches/) |
-| Total | 2283 | | | 2283 items in search results |
+| Total | 2283 | | | |
 
 ## Data model
 
