@@ -59,7 +59,7 @@ Other metadata-only types:
 | --- | --- | --- | --- | --- |
 | [UBL](https://colonialarchitecture.eu/slv?sq=%22Leiden%20University%20Libraries%22&ft=0&cat=Image&rows=5) | 14715 | [ubl_images.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/xlsx/ubl/ubl_images.xlsx) | [ubl_images_handles.xlsx](https://github.com/tu-delft-library/colonial-repo-revisited/raw/main/exports/xlsx/ubl/ubl_images_handles.xlsx) (14714) | |
 | [TRO](https://colonialarchitecture.eu/slv?sq=%22Tropenmuseum%22&ft=0) | 4110 | ❌ | - | |
-| Other | 8 | ❌ | - | |
+| Other | 9 | ❌ | - | |
 | Total | 18834 | | | |
 
 ### Map
